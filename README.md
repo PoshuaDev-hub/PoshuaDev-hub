@@ -47,7 +47,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoshuaDev-hub&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PoshuaDev-hub&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=PoshuaDev-hub&theme=noctis_minimus&hide_border=false" width="48%" />
 </p>
 
